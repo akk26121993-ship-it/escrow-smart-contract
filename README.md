@@ -91,6 +91,3 @@ Trustless peer-to-peer transactions
 
 Ashok Kumar Sekar
 https://github.com/akk26121993-ship-it
-
-
-npx hardhat test
